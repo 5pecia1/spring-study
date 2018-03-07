@@ -6,13 +6,13 @@ title: Spring을 이용한 객체지향 스터디
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-# url: "https://chibicode.github.io"
-url: "https://6698cae12ead42f9809d8b4de1f8f347.vfs.cloud9.ap-southeast-1.amazonaws.com/"
+url: "https://5pecia1.github.io"
+# url: "https://6698cae12ead42f9809d8b4de1f8f347.vfs.cloud9.ap-southeast-1.amazonaws.com/"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-# baseurl: "/duo/"
-baseurl: ""
+baseurl: "/spring-study/"
+# baseurl: ""
 
 # Twitter IDs
 # twitter:
