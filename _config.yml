@@ -2,21 +2,23 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Spring을 이용한 객체지향 스터디
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+# url: "https://chibicode.github.io"
+url: "https://6698cae12ead42f9809d8b4de1f8f347.vfs.cloud9.ap-southeast-1.amazonaws.com/"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/duo/"
+# baseurl: "/duo/"
+baseurl: ""
 
 # Twitter IDs
-twitter:
-  username: "chibicode"
-author:
-  twitter: "chibicode"
+# twitter:
+#   username: "chibicode"
+# author:
+#   twitter: "chibicode"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
@@ -25,7 +27,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "static/images/og.jpg"
+      image: "static/images/spring-logo.png"
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional
@@ -42,13 +44,13 @@ permalink: posts/:title/
 google_analytics: ""
 
 # Language. For example, if you write in Japanese, use "ja"
-lang: "en"
+lang: "ko"
 
 # How many posts are visible on the home page without clicking "View More"
 num_posts_visible_initially: 5
 
 # Date format: See http://strftime.net/
-date_format: "%b %-d, %Y"
+date_format: "%Y %m %-d"
 # ----------------------------------------------------------------------------
 
 exclude:

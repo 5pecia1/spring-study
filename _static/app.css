@@ -9,7 +9,7 @@ html {
   font-family: Georgia, Cambria, "Times New Roman", Times, "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-html[lang="ja"] {
+html[lang="ko"] {
   line-height: 1.9;
 }
 
@@ -93,7 +93,7 @@ h5 + h6,
 }
 
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.1rem;
   margin-top: 1em;
 }
 
