@@ -1,4 +1,4 @@
-![](/static/images/spring-logo.png)
+![](static/images/spring-logo.png)
 
 스프링은 객체지향적으로 잘 짜여진 프레임워크라고 합니다.  
 그런 스프링 프레임워크를 이용하여 웹 개발과 OOP를 공부해보려고 합니다.
